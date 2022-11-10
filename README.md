@@ -1,2 +1,2 @@
 # zuri-slideshow-using-html-css-and-js 
-## The hosted link to github.io is: 
+## The link to the Hosted pages on github.io is: https://afemsonic.github.io/zuri-slideshow-using-html-css-and-js/
